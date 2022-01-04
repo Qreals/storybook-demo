@@ -1,0 +1,13 @@
+node_modules
+.idea
+dist
+
+build
+
+coverage
+tests
+
+packages
+.tmp
+es
+lib

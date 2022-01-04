@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Radio it should generate a snapshot 1`] = `
+<div>
+  <label
+    class="ant-radio-wrapper"
+  >
+    <span
+      class="ant-radio"
+    >
+      <input
+        class="ant-radio-input"
+        type="radio"
+        value=""
+      />
+      <span
+        class="ant-radio-inner"
+      />
+    </span>
+  </label>
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input it should generate a snapshot 1`] = `
+<div>
+  <input
+    class="ant-input"
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`Input it should support size 1`] = `
+<div>
+  <input
+    class="ant-input ant-input-lg"
+    type="text"
+    value=""
+  />
+</div>
+`;
